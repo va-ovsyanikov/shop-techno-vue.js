@@ -21,7 +21,7 @@ const mutations = {
 
 const actions = {
     FETCH_PRODUCTS({ commit }) {
-        return axios.get('http://localhost:3000/products')
+        return axios.get('https://shop-techno-vue.herokuapp.com/products')
             .then(response => {
                 commit('FETCH_PRODUCTS', response.data)
 
