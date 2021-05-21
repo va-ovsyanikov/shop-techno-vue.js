@@ -52,10 +52,9 @@ export default {
 <style lang="less">
 .v_catalog_item_info {
   display: flex;
-}
-
-img {
-  width: 400px;
+  img {
+    width: 400px;
+  }
 }
 
 .v_item_info_price {
