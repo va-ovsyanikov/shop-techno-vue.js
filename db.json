@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=763&q=80",
+      "name": "Macbook Apple MacBook Air",
+      "price": 60000,
+      "category":1,
+      "brends": "Apple",
+      "color": ["black", "white", "Silver "],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=763&q=80",
+      "name": "Macbook Apple MacBook Pro",
+      "price": 70000,
+      "category":1,
+      "brends": "Apple",
+      "color": ["black", "white", "Silver "],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=763&q=80",
+      "name": "Notebook Lenovo IdeaPad",
+      "price": 17000,
+      "category":1,
+      "brends": "Lenovo",
+      "color": ["black", "white", "Silver "],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=763&q=80",
+      "name": "Notebook Lenovo G5030",
+      "price": 16000,
+      "category":1,
+      "brends": "Lenovo",
+      "color": ["black", "white", "Silver "],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=763&q=80",
+      "name": "Notebook Acer Aspire",
+      "price": 21000,
+      "category":1,
+      "brends": "Acer",
+      "color": ["black", "white", "Silver "],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+      "name": "Phone Samsung Galaxy A7",
+      "price": 30000,
+      "category":2,
+      "brends": "Samsung",
+      "color": ["black", "Silver ", "pink"],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+      "name": "Phone Samsung Galaxy A5",
+      "price": 17000,
+      "category":2,
+      "brends": "Samsung",
+      "color": ["black", "Silver ", "pink"],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+      "name": "Phone Apple iPhone SE",
+      "price": 38000,
+      "category":2,
+      "brends": "Apple",
+      "color": ["black", "Silver ", "pink"],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+      "name": "Phone Asus Zenfone Laser",
+      "price": 12000,
+      "category":2,
+      "brends": "Asus",
+      "color": ["black", "Silver ", "pink"],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+      "name": "Phone Lenovo A5000",
+      "price": 11000,
+      "category":2,
+      "brends": "Lenovo",
+      "color": ["black", "Silver ", "pink"],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 11,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+      "name": "Phone Lenovo P90",
+      "price": 16000,
+      "category":2,
+      "brends": "Lenovo",
+      "color": ["black", "Silver ", "pink"],
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1586334402417-17ec1a793f1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+      "name": "Video GIGABYTE GTX-960",
+      "price": 14000,
+      "category":3,
+      "brends": "Gigabyte",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt adipisci deserunt commodi consequatur facilis atque exercitationem optio minima earum corporis esse eos sequi, dolorem sit quidem illo aut suscipit neque."
+    }
+  ]
+}
